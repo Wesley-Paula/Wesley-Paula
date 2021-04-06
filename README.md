@@ -1,6 +1,6 @@
 <h2> Bem vindo ao meu perfil</h2>
 
-👋 Hi, I’m :Wesley-Paula
+👋 Ola, Eu sou :Wesley-Paula
 
 Algumas coisas sobre mim:<br>
 <br>
